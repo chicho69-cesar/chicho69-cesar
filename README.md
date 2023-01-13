@@ -2,7 +2,7 @@
 
 ***
 
-<img align='right' src="https://raw.githubusercontent.com/chicho69-cesar/chicho69-cesar/main/me.jpg" width="180" height="180" style="border-radius: 50%; object-fit: cover;">
+<img align='right' src="https://raw.githubusercontent.com/chicho69-cesar/chicho69-cesar/main/me.png" width="250" height="250">
 
 **<p>Hi, I am a software developer, passionate about technology and programming, I am currently studying Computer Engineering.</p>**
 
