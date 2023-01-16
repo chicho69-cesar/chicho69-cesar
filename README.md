@@ -6,7 +6,7 @@
 
 <img align='right' src="https://raw.githubusercontent.com/chicho69-cesar/chicho69-cesar/main/me.png" width="220" height="220">
 
-**<p>Hi, I am a software developer, passionate about technology and programming, I am currently studying Computer Engineering.</p>**
+**<p>Hi, I am a software developer, apassionate about technology and programming, I am currently studying Computer Engineering.</p>**
 
 [![Twitter: chicho69_cesar](https://img.shields.io/twitter/follow/chicho69_cesar?style=social)](https://twitter.com/chicho69_cesar)
 <br/>
