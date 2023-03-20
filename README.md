@@ -31,7 +31,7 @@ const cesar = {
   code: [ "JavaScript", "C#", "Go", "PHP", "Dart", "Java", "Python" ],
   askMeAbout: [ "Web dev", "Tech", "App dev", "Soccer" ],
   technologies: {
-    mobile: [ "Flutter" ],
+    mobile: [ "Flutter", "React Native" ],
     frontEnd: {
       js: [ "React", "Svelte" ],
       css: [ "Bootstrap", "Tailwind" ]
@@ -39,8 +39,8 @@ const cesar = {
     backEnd: {
       js: [ "Node", "Express", "Nest" ],
       csharp: [ "ASP.NET" ],
-      go: [ "Fiber", "Gin" ],
-      python: [ "Django" ]
+      python: [ "Django", "Flask" ],
+      php: [ "Laravel" ]
     },
     devOps: [ "Azure", "Docker🐳", "Nginx" ],
     databases: [ "MySQL", "Postgres", "SQLServer", "Mongo", "Redis" ],
