@@ -28,7 +28,7 @@
 ```javascript
 const cesar = {
   pronouns: "He" | "Him",
-  code: [ "JavaScript", "C#", "Go", "PHP", "Dart", "Java", "Python" ],
+  code: [ "JavaScript", "C#", "Go", "TypeScript", "PHP", "Dart", "Java", "Python" ],
   askMeAbout: [ "Web dev", "Tech", "App dev", "Soccer" ],
   technologies: {
     mobile: [ "Flutter", "React Native" ],
@@ -46,7 +46,7 @@ const cesar = {
     databases: [ "MySQL", "Postgres", "SQLServer", "Mongo", "Redis" ],
     misc: [ "Firebase", "socket.IO", "RxJS", "RxDart" ]
   },
-  currentProject: "I am working on an app to see the roles of cleaning in my house"
+  currentProject: "I am working on an application to plan events, parties, meetings, etc."
 };
 ```
 
