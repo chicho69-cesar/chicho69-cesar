@@ -1,25 +1,24 @@
 <h1>Hi, I'm Cesar Villalobos Olmos <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"/></h1>
 
-***
-
 # 💫 About Me
 
 <img align='right' src="https://raw.githubusercontent.com/chicho69-cesar/chicho69-cesar/main/me.png" width="200" height="200">
 
 **<p>Hi, I am a passionate fullstack developer, passionate about technology and programming, I am currently studying Computer Engineering, I have experience creating web and mobile applications. My goal is to create innovative and functional technology solutions that solve real-world problems and improve people's lives.</p>**
 
+<div style="display: flex; flex-direction: row; align-items:center; gap: 0 1rem; flex-wrap: wrap;">
+
 [![Twitter: chicho69_cesar](https://img.shields.io/twitter/follow/chicho69_cesar?style=social)](https://twitter.com/chicho69_cesar)
-<br/>
 
 [![Linkedin: cesarvillalobosolmos](https://img.shields.io/badge/-cesarvillalobosolmos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cesarvillalobosolmos/)](https://www.linkedin.com/in/cesarvillalobosolmos/)
-<br/>
 
 [![GitHub chicho69-cesar](https://img.shields.io/github/followers/chicho69-cesar?label=follow&style=social)](https://github.com/chicho69-cesar)
-<br/>  
+</div>
 
-## 🌐 Socials
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Chicho#1218) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100010073019030) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chicho69.cesar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cesarvillalobosolmos) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/cesarvillalobosolmos) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20986285) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/chicho69_cesar)
+## 🌐 Social Networks
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cesarvillalobosolmos) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/chicho69_cesar) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100010073019030) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chicho69.cesar) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/cesarvillalobosolmos) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20986285) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Chicho#1218)
 
 ## 🤍 Main Stack
 
