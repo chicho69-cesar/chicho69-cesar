@@ -25,23 +25,23 @@
 ```javascript
 const cesar = {
   pronouns: "He" | "Him",
-  languages: [ "JavaScript", "C#", "TypeScript", "PHP", "Python" ],
-  askMeAbout: [ "Web dev", "Tech", "App dev", "Soccer" ],
+  languages: ["JavaScript", "TypeScript", "Python", "C#", "PHP"],
+  askMeAbout: ["Web dev", "Tech", "App dev", "Soccer"],
   technologies: {
-    mobile: [ "React Native" ],
+    mobile: ["React Native"],
     frontEnd: {
-      js: [ "React", "Next", "Astro", "Remix" ],
-      css: [ "Tailwind", "Sass" ]
+      js: ["React", "NextJS", "Astro", "Remix"],
+      css: ["Tailwind", "Sass"]
     },
     backEnd: {
-      js: [ "Node", "Express", "Nest" ],
-      csharp: [ "ASP.NET" ],
-      python: [ "Django", "FastApi" ],
-      php: [ "Laravel" ]
+      js: ["Node", "Express", "Nest"],
+      csharp: ["ASP.NET"],
+      python: ["Django", "FastApi"],
+      php: ["Laravel"]
     },
-    devOps: [ "AWS", "Docker🐳", "Nginx" ],
-    databases: [ "MySQL", "Postgres", "SQLServer", "Mongo", "Redis" ],
-    misc: [ "Firebase", "socket.IO", "RxJS", "Git", "GraphQL" ]
+    devOps: ["AWS", "Docker🐳"],
+    databases: ["MySQL", "Postgres", "SQLServer", "MongoDB", "Redis"],
+    misc: ["Firebase", "socket.IO", "RxJS", "Git", "GraphQL", "Jira"]
   },
   currentProject: "I am working on an application to sell artisan things."
 };
