@@ -25,23 +25,24 @@
 ```javascript
 const cesar = {
   pronouns: "He" | "Him",
-  languages: [ "JavaScript", "C#", "TypeScript", "PHP", "Python" ],
-  askMeAbout: [ "Web dev", "Tech", "App dev", "Soccer" ],
+  languages: ["JavaScript", "TypeScript", "C#", "Java", "Python", "PHP"],
+  askMeAbout: ["Web dev", "Tech", "App dev", "Soccer"],
   technologies: {
-    mobile: [ "React Native" ],
+    mobile: ["React Native", "Expo"],
     frontEnd: {
-      js: [ "React", "Next", "Astro", "Remix" ],
-      css: [ "Tailwind", "Sass" ]
+      js: ["React", "Angular", "Next", "Remix", "Astro"],
+      css: ["Tailwind", "Bootstrap", "Sass"]
     },
     backEnd: {
-      js: [ "Node", "Express", "Nest" ],
-      csharp: [ "ASP.NET" ],
-      python: [ "Django", "FastApi" ],
-      php: [ "Laravel" ]
+      js: ["Node", "Express", "Nest"],
+      csharp: ["ASP.NET"],
+      java: ["Spring"],
+      python: ["Django", "FastApi"],
+      php: ["Laravel"]
     },
-    devOps: [ "AWS", "Docker🐳", "Nginx" ],
-    databases: [ "MySQL", "Postgres", "SQLServer", "Mongo", "Redis" ],
-    misc: [ "Firebase", "socket.IO", "RxJS", "Git", "GraphQL" ]
+    devOps: ["AWS", "Docker", "Kubernetes", "CI/CD", "Linux"],
+    databases: ["MySQL", "Postgres", "SQLServer", "MongoDB", "Redis"],
+    misc: ["Git", "GitHub", "Firebase", "socket.IO", "RxJS", "GraphQL"]
   },
   currentProject: "I am working on an application to sell artisan things."
 };
@@ -49,11 +50,11 @@ const cesar = {
 
 ## 💻 My Complete Tech List
 
-<img src="https://skillicons.dev/icons?i=javascript,ts,cs,go,php,dart,java,py,html,css,react,svelte,next,remix,redux,nodejs,express,nest,vite,apollo,graphql,astro,rxjs,prisma,jest,dotnet,laravel,flutter,django,fastapi,bootstrap,tailwind,sass,md,firebase,supabase,docker,aws,figma,git,github,githubactions,kubernetes,linux,nginx,postman,mysql,postgres,mongodb,redis,sqlite" alt="skills logos" /> <br>
+<img src="https://skillicons.dev/icons?i=javascript,ts,cs,java,py,php,html,css,react,angular,next,remix,redux,nodejs,express,nest,vite,apollo,graphql,astro,rxjs,prisma,jest,dotnet,spring,laravel,django,fastapi,bootstrap,tailwind,sass,md,firebase,supabase,docker,aws,figma,git,github,githubactions,kubernetes,linux,jenkins,nginx,postman,mysql,postgres,mongodb,redis,sqlite" alt="skills logos" /> <br>
 
 ## 💻 I'm planning to learn
 
-<img src="https://skillicons.dev/icons?i=angular,vue,gatsby,nuxt,solidjs,deno,flask,rust,tauri,spring," alt="skills logos" /> <br>
+<img src="https://skillicons.dev/icons?i=dart,go,rust,vue,svelte,flutter,gatsby,nuxt,solidjs,deno,flask,tauri," alt="skills logos" /> <br>
 
 ## 📊 GitHub Stats
 
