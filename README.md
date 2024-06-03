@@ -50,7 +50,7 @@ const cesar = {
 
 ## 💻 My Complete Tech List
 
-<img src="https://skillicons.dev/icons?i=javascript,ts,cs,java,py,php,html,css,react,angular,next,remix,redux,nodejs,express,nest,vite,apollo,graphql,astro,rxjs,prisma,jest,dotnet,spring,laravel,django,fastapi,bootstrap,tailwind,sass,md,firebase,supabase,docker,aws,figma,git,github,githubactions,kubernetes,linux,jenkins,nginx,postman,mysql,postgres,mongodb,redis,sqlite" alt="skills logos" /> <br>
+<img src="https://skillicons.dev/icons?i=javascript,ts,cs,java,py,php,html,css,react,angular,next,remix,astro,nodejs,express,nest,dotnet,spring,laravel,django,fastapi,docker,aws,git,github,githubactions,kubernetes,linux,jenkins,mysql,postgres,mongodb,redis,sqlite,bootstrap,tailwind,sass,vite,apollo,graphql,rxjs,prisma,jest,redux,md,firebase,supabase,figma,nginx,postman" alt="skills logos" /> <br>
 
 ## 💻 I'm planning to learn
 
