@@ -56,6 +56,10 @@ const cesar = {
 
 <img src="https://skillicons.dev/icons?i=dart,go,rust,vue,svelte,flutter,gatsby,nuxt,solidjs,deno,flask,tauri," alt="skills logos" /> <br>
 
+## 🥇 Certifications
+
+[![Certificación AWS Cloud Practitioner](https://images.credly.com/size/240x240/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/b8eb8fb7-b4b5-43ae-bc58-402cf452d3a0/public_url)
+
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=chicho69-cesar&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=true)<br/> 
