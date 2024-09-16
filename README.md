@@ -66,6 +66,4 @@ const cesar = {
 ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=chicho69-cesar&theme=ayu-mirage&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chicho69-cesar&theme=ayu-mirage&hide_border=false&include_all_commits=false&langs_count=10&card_width=500&count_private=true&layout=compact) 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
