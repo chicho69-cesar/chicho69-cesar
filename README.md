@@ -16,11 +16,11 @@
 </div>
 
 
-## 🌐 Social Networks
+## 🌐 My Social Networks
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cesarvillalobosolmos) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/chicho69_cesar) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100010073019030) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chicho69.cesar) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/cesarvillalobosolmos) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20986285) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Chicho#1218)
 
-## 🤍 Main Stack
+## 🤍 My Main Stack
 
 ```javascript
 const cesar = {
@@ -56,11 +56,11 @@ const cesar = {
 
 <img src="https://skillicons.dev/icons?i=dart,go,rust,vue,svelte,flutter,gatsby,nuxt,solidjs,deno,flask,tauri," alt="skills logos" /> <br>
 
-## 🥇 Certifications
+## 🥇 My Certifications
 
 [![Certificación AWS Cloud Practitioner](https://images.credly.com/size/240x240/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/b8eb8fb7-b4b5-43ae-bc58-402cf452d3a0/public_url)
 
-## 📊 GitHub Stats
+## 📊 My GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=chicho69-cesar&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=true)<br/> 
 ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=chicho69-cesar&theme=ayu-mirage&hide_border=false)<br/>
