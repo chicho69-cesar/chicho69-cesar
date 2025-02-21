@@ -26,11 +26,11 @@
 const cesar = {
   pronouns: "He" | "Him",
   languages: ["JavaScript", "TypeScript", "C#", "Java", "Python", "PHP"],
-  askMeAbout: ["Web dev", "Tech", "App dev", "Soccer"],
+  askMeAbout: ["Web dev", "Tech", "App dev", "Soccer", "Gym"],
   technologies: {
     mobile: ["React Native", "Expo"],
     frontEnd: {
-      js: ["React", "Angular", "Next", "Remix", "Astro"],
+      js: ["React", "Angular", "Next", "Astro"],
       css: ["Tailwind", "Bootstrap", "Sass"]
     },
     backEnd: {
@@ -42,7 +42,7 @@ const cesar = {
     },
     devOps: ["AWS", "Docker", "Kubernetes", "CI/CD", "Linux"],
     databases: ["MySQL", "Postgres", "SQLServer", "MongoDB", "Redis"],
-    misc: ["Git", "GitHub", "Firebase", "socket.IO", "RxJS", "GraphQL"]
+    misc: ["Git", "GitHub", "GitHub Actions", "Firebase", "socket.IO", "RxJS", "GraphQL"]
   },
   currentProject: "I am working on an application to sell artisan things."
 };
@@ -50,11 +50,11 @@ const cesar = {
 
 ## 💻 My Complete Tech List
 
-<img src="https://skillicons.dev/icons?i=javascript,ts,cs,java,py,php,html,css,react,angular,next,remix,astro,nodejs,express,nest,dotnet,spring,laravel,django,fastapi,docker,aws,git,github,githubactions,kubernetes,linux,jenkins,mysql,postgres,mongodb,redis,sqlite,bootstrap,tailwind,sass,vite,apollo,graphql,rxjs,prisma,jest,redux,md,firebase,supabase,figma,nginx,postman" alt="skills logos" /> <br>
+<img src="https://skillicons.dev/icons?i=javascript,ts,cs,java,py,php,html,css,react,angular,next,astro,nodejs,express,nest,dotnet,spring,laravel,django,fastapi,docker,aws,git,github,githubactions,kubernetes,linux,mysql,postgres,mongodb,redis,sqlite,bootstrap,tailwind,sass,vite,apollo,graphql,rxjs,prisma,jest,redux,md,firebase,supabase,figma,nginx,postman" alt="skills logos" /> <br>
 
 ## 💻 I'm planning to learn
 
-<img src="https://skillicons.dev/icons?i=dart,go,rust,vue,svelte,flutter,gatsby,nuxt,solidjs,deno,flask,tauri," alt="skills logos" /> <br>
+<img src="https://skillicons.dev/icons?i=dart,go,rust,vue,svelte,flutter,nuxt,solidjs,deno,flask,tauri,jenkins," alt="skills logos" /> <br>
 
 ## 🥇 My Certifications
 
