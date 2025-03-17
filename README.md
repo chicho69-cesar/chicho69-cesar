@@ -8,8 +8,6 @@
 
 <div style="display: flex; flex-direction: row; align-items:center; gap: 0 1rem; flex-wrap: wrap;">
 
-[![Twitter: chicho69_cesar](https://img.shields.io/twitter/follow/chicho69_cesar?style=social)](https://twitter.com/chicho69_cesar)
-
 [![Linkedin: cesarvillalobosolmos](https://img.shields.io/badge/-cesarvillalobosolmos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cesarvillalobosolmos/)](https://www.linkedin.com/in/cesarvillalobosolmos/)
 
 [![GitHub chicho69-cesar](https://img.shields.io/github/followers/chicho69-cesar?label=follow&style=social)](https://github.com/chicho69-cesar)
@@ -18,7 +16,7 @@
 
 ## 🌐 My Social Networks
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cesarvillalobosolmos) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/chicho69_cesar) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100010073019030) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chicho69.cesar) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/cesarvillalobosolmos) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20986285) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Chicho#1218)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cesarvillalobosolmos) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20986285) 
 
 ## 🤍 My Main Stack
 
